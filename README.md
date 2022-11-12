@@ -1,3 +1,4 @@
+![alt text](images/cover.svg)
 ### Hi there 👋
 
 
