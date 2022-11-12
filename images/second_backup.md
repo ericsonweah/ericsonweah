@@ -4,24 +4,31 @@
   <img src="images/me.png" alt="Sublime's custom image"/>
 </p>
 
-
-# currently 
-
-- 🔭 I’m currently working on refactoring and rebuilding my website and portfolio
-- 🌱 I’m currently learning writing professional and business documents, and I am learning Arabic
-- 👯 I’m looking to collaborate on a big open source project
-- 🤔 I’m looking for help with writing
-- 💬 Ask me about building an MVC framework with raw nodejs
-- 📫 How to reach me: ericson.weah@ericsonweah.com
-- 😄 Pronouns: Éricson Wêah
-- ⚡ Fun fact: I know French, Spanish, and Krahn
-
 # About
 I am a self-taught full-stack software engineer specializing primary in Javascript and PHP with an emphasis on NodeJs, Laravel, WordPress, MySQL, and MongoDB. I specialize in the web specifically in engineering fast and scalable network applications, e-commerce systems, blogs, social media systems, normal websites, API, eventory management systems, CMS, APIs, and Unix Systems (Linux). <br />
 I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese only). <br />
 
 # Content
 <!-- Makes a bullet point list -->
+* Websites and Social Profiles
+    * [Website](https://www.ericsonweah.com)
+    * [Dev Website](https://www.ericsonweah.dev)
+    * [Personal Blog](https://www.ericsonsweah.com)
+    * [Raw NodeJs Blog](https://www.rawnodejs.com)
+    * [Pure NodeJs Blog](https://www.purenodejs.com)
+    * [GitLab](https://gitlab.com/ericsonweah)  
+    * [LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/)
+    * [Facebook](https://www.facebook.com/Eric.S.Weah)
+    * [Twitter](https://twitter.com/EricsonWeah1)
+    * [Instagram](https://www.instagram.com/ericsonweah/)
+
+* Some Projects
+   * [MongoDB Model](https://www.mongodbmodel.com)
+   * [NodeJs MVC Framework](https://www.ongojs.com)
+   * [Afros In Tech](https://www.afrosintech.com)
+   * [Afro In Tech Blog](https://www.afrosintech.org)
+   * [City Creeks](https://www.citycreaks.com)
+
 
 Website and Social Profile | Some Projects |
 --- | --- | 
