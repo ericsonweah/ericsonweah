@@ -8,7 +8,7 @@
 # currently 
 
 - 🔭 I’m currently working on refactoring and rebuilding my website and portfolio
-- 🌱 I’m currently learning writing professional and business documents, and I am learning Arabic
+- 🌱 I’m currently learning writing professional and business documents and I am learning Arabic
 - 👯 I’m looking to collaborate on a big open source project
 - 🤔 I’m looking for help with writing
 - 💬 Ask me about building an MVC framework with raw nodejs
