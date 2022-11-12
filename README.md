@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="images/register.png" alt="Sublime's custom image"/>
+  <img src="images/me.png" alt="Sublime's custom image"/>
 </p>
 
 # About
