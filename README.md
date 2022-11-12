@@ -1,9 +1,10 @@
 # Hi there 👋
 
-<p align="center">
-  <img src="images/me.png" alt="Sublime's custom image"/>
-</p>
 
+
+<p align="center">
+  <img src="images/welcome.svg" alt="Sublime's custom image"/>
+</p>
 
 # currently 
 
@@ -15,6 +16,12 @@
 - 📫 How to reach me: ericson.weah@ericsonweah.com
 - 😄 Pronouns: Éricson Wêah
 - ⚡ Fun fact: I know English, French, Spanish, Krahn, and conversational Portuguese.
+
+
+
+<p align="center">
+  <img src="images/me.png" alt="Sublime's custom image"/>
+</p>
 
 # About
 I am a self-taught full-stack software engineer specializing primary in Javascript and PHP with an emphasis on NodeJs, Laravel, WordPress, MySQL, and MongoDB. I specialize in the web specifically in engineering fast and scalable network applications, e-commerce systems, blogs, social media systems, normal websites, API, eventory management systems, CMS, APIs, and Unix Systems (Linux). <br />
@@ -35,6 +42,17 @@ Website and Social Profile | Some Projects |
 [Facebook](https://www.facebook.com/Eric.S.Weah) | ----------------- |
 [Twitter](https://twitter.com/EricsonWeah1)| ----------------- |
 [Instagram](https://www.instagram.com/ericsonweah/) | ----------------- |
+
+
+# Come, let us work together, we will make a great team!
+
+<p align="center">
+  <img src="images/come-in-please.png" alt="Sublime's custom image"/>
+</p>
+
+
+
+
    
  
 
