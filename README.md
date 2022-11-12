@@ -14,7 +14,7 @@
 - 💬 Ask me about building an MVC framework with raw nodejs
 - 📫 How to reach me: ericson.weah@ericsonweah.com
 - 😄 Pronouns: Éricson Wêah
-- ⚡ Fun fact: I know French, Spanish, and Krahn
+- ⚡ Fun fact: I know English, French, Spanish, Krahn, and conversational Portuguese.
 
 # About
 I am a self-taught full-stack software engineer specializing primary in Javascript and PHP with an emphasis on NodeJs, Laravel, WordPress, MySQL, and MongoDB. I specialize in the web specifically in engineering fast and scalable network applications, e-commerce systems, blogs, social media systems, normal websites, API, eventory management systems, CMS, APIs, and Unix Systems (Linux). <br />
