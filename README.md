@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="images/welcome.svg" alt="Sublime's custom image"/>
+  <img src="images/welcome.svg" alt="Sublime's custom image" oncontextmenu="return false;"/>
 </p>
 
 # currently 
@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="images/me.png" alt="Sublime's custom image"/>
+  <img src="images/me.png" alt="Sublime's custom image" oncontextmenu="return false;"/>
 </p>
 
 # About
@@ -47,7 +47,7 @@ Website and Social Profile | Some Projects |
 # Come, let us work together, we will make a great team!
 
 <p align="center">
-  <img src="images/come-in-please.png" alt="Sublime's custom image"/>
+  <img src="images/come-in-please.png" alt="Sublime's custom image" oncontextmenu="return false;"/>
 </p>
 
 
