@@ -32,7 +32,7 @@ I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese on
 
 Website and Social Profile | Some Projects |
 --- | --- | 
-[Website](http://www.ericsonweah.com) | [MongoDB Model](https://www.mongodbmodel.com) |
+[Website](http://www.ericsonweah.com) | [MongoDB Model](https://www.mongodb-model.com) |
 [Personal Blog](https://www.ericsonsweah.com) | [NodeJs MVC Framework](https://www.ongojs.com) |
 [GitLab](https://gitlab.com/ericsonweah) | [Afros In Tech](https://www.afrosintech.com) |
 [LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/)| [Afro In Tech Blog](https://www.afrosintech.org) |
