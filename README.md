@@ -35,9 +35,8 @@ Website and Social Profile | Some Projects |
 [Website](http://www.ericsonweah.com) | [MongoDB Model](https://www.mongodbmodel.com) |
 [Dev Website](https://www.ericsonweah.dev)| [NodeJs MVC Framework](https://www.ongojs.com) |
 [Personal Blog](https://www.ericsonsweah.com) | [Afros In Tech](https://www.afrosintech.com) |
-[Raw NodeJs Blog](https://www.rawnodejs.com) | [Afro In Tech Blog](https://www.afrosintech.org) |
-[Pure NodeJs Blog](https://www.purenodejs.com) | [City Creeks](https://www.citycreaks.com) |
-[GitLab](https://gitlab.com/ericsonweah)   | ----------------- |
+[GitLab](https://gitlab.com/ericsonweah) | [Afro In Tech Blog](https://www.afrosintech.org) |
+[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/) | [City Creeks](https://www.citycreaks.com) |
 [LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/) | ----------------- |
 [Facebook](https://www.facebook.com/Eric.S.Weah) | ----------------- |
 [Twitter](https://twitter.com/EricsonWeah1)| ----------------- |
