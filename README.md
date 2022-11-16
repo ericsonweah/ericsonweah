@@ -36,7 +36,7 @@ Website and Social Profile | Some Projects |
 [Personal Blog](https://www.ericsonsweah.com) | [NodeJs MVC Framework](https://www.ongojs.com) |
 [GitLab](https://gitlab.com/ericsonweah) | [Afros In Tech](http://www.afrosintech.com/) |
 [LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/)| [Afro In Tech Blog](http://afrosintech.org) |
-[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/) | [City Creeks](https://www.citycreaks.com) |
+[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/) | [City Creeks](https://www.citycreeks.com) |
 [Facebook](https://www.facebook.com/Eric.S.Weah) | ----------------- |
 [Twitter](https://twitter.com/EricsonWeah1)| ----------------- |
 [Instagram](https://www.instagram.com/ericsonweah/) | ----------------- |
