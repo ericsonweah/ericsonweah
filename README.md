@@ -24,7 +24,7 @@
 </p>
 
 # About
-I am a self-taught full-stack software engineer specializing primary in Javascript and PHP with an emphasis on NodeJs, Laravel, WordPress, MySQL, and MongoDB. I specialize in the web specifically in engineering fast and scalable network applications, e-commerce systems, blogs, social media systems, normal websites, API, eventory management systems, CMS, APIs, and Unix Systems (Linux). <br />
+I am a self-taught full-stack software engineer specializing primary in Javascript and PHP with an emphasis on NodeJs, Laravel, WordPress, MySQL, and MongoDB. I specialize in the web, specifically in engineering fast and scalable network applications, e-commerce systems, blogs, social media systems, normal websites, APIs, eventory management systems, CMS, and Unix Systems (Linux). <br />
 I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese only). <br />
 
 # Content
