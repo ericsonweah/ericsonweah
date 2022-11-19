@@ -35,8 +35,8 @@ Dev Profiles | Some Projects | Personal Websites| Social Profiles
 [Github](https://github.com/ericsonweah) | [MongoDB Model: A MongoDB Framework ](https://www.mongodb-model.com) | [Main Website](https://www.ericsonsweah.com)|[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/)|
 [GitLab](https://gitlab.com/ericsonweah) | [Ongojs: A NodeJs MVC Framework](http://ongojs.com/) | [Personal Blog](http://ericsonweah.com)| [Facebook](https://www.facebook.com/Eric.S.Weah)|
 [NPM Afros In Tech](https://www.npmjs.com/~afrosintech) | [Afros In Tech](http://www.afrosintech.com/) | [Website](http://www.eweah.com)|[Instagram](https://www.instagram.com/ericsonweah/)
-adssdfsadfasf | [Afro In Tech Blog](http://afrosintech.org) | ----------------- | [Twitter](https://twitter.com/EricsonWeah1)
-adfasdfd| [City Creeks](https://www.citycreeks.com) |  ----------------- | ----------------- | ----------------- |
+[Github Afros In Tech](https://github.com/afrosintech) | [Afro In Tech Blog](http://afrosintech.org) | ----------------- | [Twitter](https://twitter.com/EricsonWeah1)
+[GitLab Afros In Tech](https://github.com/afrosintech)| [City Creeks](https://www.citycreeks.com) |  ----------------- | ----------------- | ----------------- |
  | ----------------- | ----------------- | ----------------- | ----------------- |
 
 
