@@ -30,8 +30,8 @@ I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese on
 # Content
 <!-- Makes a bullet point list -->
 
-Website and Social Profile | Some Projects |
---- | --- | 
+Social Profile | Some Projects | Personal Websites
+--- | --- |----|
 [Website](https://www.ericsonsweah.com) | [MongoDB Model: A MongoDB Framework ](https://www.mongodb-model.com) |
 [Personal Blog](http://ericsonweah.com) | [Ongojs: A NodeJs MVC Framework](http://ongojs.com/) |
 [GitLab](https://gitlab.com/ericsonweah) | [Afros In Tech](http://www.afrosintech.com/) |
