@@ -37,7 +37,12 @@ Dev Profiles | Some Projects | Personal Websites| Social Profiles
 [npm](https://www.npmjs.com/~eweah) | [Afros In Tech](http://www.afrosintech.com/) | [Secondary Website](http://www.eweah.com)|[Instagram](https://www.instagram.com/ericsonweah/)
 [Github Afros In Tech](https://github.com/afrosintech) | [Afro In Tech Blog](http://afrosintech.org) | [Main Dot Dev Website](https://www.ericonsweah.dev) | [Twitter](https://twitter.com/EricsonWeah1)
 [GitLab Afros In Tech](https://github.com/afrosintech)| [Raw NodeJs Blog](https://rawnodejs.com/) |  ----------------- | [Pinterest](https://www.pinterest.com/ericson0669/) |
-[NPM Afros In Tech](https://www.npmjs.com/~afrosintech)| [City Creeks](https://www.citycreeks.com) | ----------------- | ----------------- | ----------------- |
+[npm: Afros In Tech](https://www.npmjs.com/~afrosintech)| [City Creeks](https://www.citycreeks.com) | ----------------- | ----------------- | ----------------- |
+[npm: MongoDB Model](https://www.npmjs.com/org/mongodb-model)|  ----------------------------- | ----------------- | ----------------- | ----------------- |
+
+
+
+
 
 
 
