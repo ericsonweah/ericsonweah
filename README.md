@@ -41,7 +41,7 @@ Dev Profiles | Some Projects | Personal Websites| Social Profiles
 
 
 
-# Come, let us work together, we will make a great team!
+# Come, let us work together, I think we will make a great team!
 
 <p align="center">
   <img src="images/come-in-please.png" alt="Sublime's custom image" oncontextmenu="return false;"/>
