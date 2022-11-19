@@ -8,13 +8,13 @@
 
 # currently 
 
-- 🔭 I’m currently working on refactoring and rebuilding my website and portfolio
-- 🌱 I’m currently learning writing professional and business documents. I am also learning Arabic
-- 👯 I’m looking to collaborate on a big open source project
-- 🤔 I’m looking for help with writing
-- 💬 Ask me about building an MVC framework with raw nodejs
-- 📫 How to reach me: ericson.weah@ericsonweah.com
-- 😄 Pronouns: Éricson Wêah
+- 🔭 I’m currently working on refactoring and rebuilding my website and portfolio.
+- 🌱 I’m currently learning writing professional and business documents. I am also learning Arabic.
+- 👯 I’m looking to collaborate on a big open source project.
+- 🤔 I’m looking for help with writing.
+- 💬 Ask me about building an MVC framework with raw nodejs.
+- 📫 How to reach me: ericson.weah@ericsonweah.com.
+- 😄 Pronouns: Éricson Wêah.
 - ⚡ Fun fact: I know English, French, Spanish, Krahn, and conversational Portuguese.
 
 
