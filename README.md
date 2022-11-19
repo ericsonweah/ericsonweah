@@ -32,13 +32,13 @@ I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese on
 
 Social Profile | Some Projects | Personal Websites
 --- | --- |----|
-[Website](https://www.ericsonsweah.com) | [MongoDB Model: A MongoDB Framework ](https://www.mongodb-model.com) |
-[Personal Blog](http://ericsonweah.com) | [Ongojs: A NodeJs MVC Framework](http://ongojs.com/) |
-[GitLab](https://gitlab.com/ericsonweah) | [Afros In Tech](http://www.afrosintech.com/) |
-[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/)| [Afro In Tech Blog](http://afrosintech.org) |
-[Facebook](https://www.facebook.com/Eric.S.Weah)| [City Creeks](https://www.citycreeks.com) |
-[Twitter](https://twitter.com/EricsonWeah1)| ----------------- |
-[Instagram](https://www.instagram.com/ericsonweah/) | ----------------- |
+[GitLab](https://github.com/ericsonweah) | [MongoDB Model: A MongoDB Framework ](https://www.mongodb-model.com) | [Website](https://www.ericsonsweah.com) 
+[GitLab](https://gitlab.com/ericsonweah) | [Ongojs: A NodeJs MVC Framework](http://ongojs.com/) | [Personal Blog](http://ericsonweah.com)
+[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/)| [Afros In Tech](http://www.afrosintech.com/) | [Personal Blog](http://www.eweah.com)
+[Facebook](https://www.facebook.com/Eric.S.Weah)| [Afro In Tech Blog](http://afrosintech.org) | ----------------- |
+[Twitter](https://twitter.com/EricsonWeah1)| [City Creeks](https://www.citycreeks.com) |  ----------------- |
+[Instagram](https://www.instagram.com/ericsonweah/) | ----------------- | ----------------- |
+
 
 
 # Come, let us work together, we will make a great team!
