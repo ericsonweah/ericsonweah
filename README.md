@@ -38,7 +38,7 @@ Dev Profiles | Some Projects | Personal Websites| Social Profiles
 [Github: Afros In Tech](https://github.com/afrosintech) | [Afro In Tech Blog](http://afrosintech.org) | [Main Dot Dev Website](https://www.ericonsweah.dev) | [Twitter](https://twitter.com/EricsonWeah1)
 [GitLab: Afros In Tech](https://github.com/afrosintech)| [Raw NodeJs Blog](https://rawnodejs.com/) |  ----------------------- | [Pinterest](https://www.pinterest.com/ericson0669/) |
 [npm: Afros In Tech](https://www.npmjs.com/~afrosintech)| [City Creeks](https://www.citycreeks.com) | ----------------------- | ----------------- | -------------- |
-[npm: MongoDB Model](https://www.npmjs.com/org/mongodb-model)|  -------------------------- | ----------------------- | ----------------- | -------------- |
+[npm: MongoDB Model](https://www.npmjs.com/org/mongodb-model)| [Pros Afros In Tech](https://pros.afrosintech.com) | ----------------------- | ----------------- | -------------- |
 
 
 
