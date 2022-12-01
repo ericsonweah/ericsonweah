@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning writing professional and business documents.
 - 🌱 I’m currently improving and digging deeper into Javascript and PHP as deep as I can. And I am loving it so far.
 - 👯 I’m looking to collaborate on a big open source project.
-- 🤔 I’m looking for help with writing.
+- 🤔 I’m looking for help with learning Arabic.
 - 💬 Ask me about building an MVC framework with raw nodejs.
 - 📫 How to reach me: ericson.weah@ericsonweah.com.
 - 😄 Pronouns: Éricson Wêah.
