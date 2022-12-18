@@ -36,16 +36,20 @@ Website|NPM|Github|Gitlab|Blog|LinkedIn|Facebook|Twitter|Instagram|Pinterest|
 # Content
 <!-- Makes a bullet point list -->
 
+### More Repositories
+Name|Github|NPM|Website
+--- | --- | --- | --- |
+Mongodb Model|[Github](https://github.com/mongodb-model)|[NPM](https://www.npmjs.com/org/mongodb-model)|[mongodb-model](https://www.mongodb-moodel)|
+Ongojs|[Github](https://github.com/ongojs)|[NPM](https://www.npmjs.com/org/ongojs)|[ongojs](https://www.ongojs.com)|
 
-Dev Profiles | Some Projects | Personal Websites| Social Profiles
---- | --- |----|----|
-[Github](https://github.com/ericsonweah) | [MongoDB Model: A MongoDB Framework ](https://www.mongodb-model.com) | [Main Website](https://www.ericsonsweah.com)|[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210/)|
-[GitLab](https://gitlab.com/ericsonweah) | [Ongojs: A NodeJs MVC Framework](http://ongojs.com/) | [Personal Blog](https://www.ericonsweah.dev)| [Facebook](https://www.facebook.com/Eric.S.Weah)|
-[npm](https://www.npmjs.com/~eweah) | [Afros In Tech](http://www.afrosintech.com/) |---------------------|[Instagram](https://www.instagram.com/ericsonweah/)
-[Github: Afros In Tech](https://github.com/afrosintech) | [Afro In Tech Blog](http://afrosintech.org) | ----------------------- | [Twitter](https://twitter.com/EricsonWeah1)
-[GitLab: Afros In Tech](https://github.com/afrosintech)| [Raw NodeJs Blog](https://rawnodejs.com/) |  ----------------------- | [Pinterest](https://www.pinterest.com/ericson0669/) |
-[npm: Afros In Tech](https://www.npmjs.com/~afrosintech)| [City Creeks](https://www.citycreeks.com) | ----------------------- | ----------------- | -------------- |
-[npm: MongoDB Model](https://www.npmjs.com/org/mongodb-model)| [Pros Afros In Tech](https://pros.afrosintech.com) | ----------------------- | ----------------- | -------------- |
+### Some Projects
+Dev Profiles | Current Projects |Temporaly Paused Projects| Past Projects|
+--- | --- |----| ----|
+[npm](https://www.npmjs.com/~eweah)  |  [City Creeks](https://www.citycreeks.com)  | [Afros In Tech](http://www.afrosintech.com/) | [Ericson Weah](https://www.ericsonsweah.com/dashboard)|
+[Github: Afros In Tech](https://github.com/afrosintech)| [MongoDB Model: A MongoDB Framework ](https://www.mongodb-model.com) |[Pros Afros In Tech](https://pros.afrosintech.com) | [Wonderful Pizza CLI](https://wonderful-pizza.com/menu)|
+[GitLab: Afros In Tech](https://gitlab.com/afrosintech)| [Ongojs: A NodeJs MVC Framework](http://ongojs.com/)|[Afro In Tech Blog](http://afrosintech.org)|[Wonderful Pizza](https://wonderful-pizza.com/menu)|
+[npm: Afros In Tech](https://www.npmjs.com/~afrosintech)| [Raw NodeJs Blog](https://rawnodejs.com/) | ---------------------------- |---------------------------------|
+
 
 
 
