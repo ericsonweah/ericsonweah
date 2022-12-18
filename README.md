@@ -30,7 +30,7 @@ I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese on
 
 # My Info
 WEBSITE|NPM|GITHUB|GITLAB|BLOG|LINKEDIN|FACEBOOK|TWITTER|INSTAGRAM|PINTEREST|
---- | --- | --- | --- | --- | --- | --- |--- |--- |--- |
+--- | --- | --- | --- | --- | --- | --- |--- |--- |---- |
 [Website](https://www.ericsonsweah.com/dashboard)|[NPM](https://www.npmjs.com/org/mongodb-model)|[Github](https://github.com/ericsonweah)|[Gitlab](https://gitlab.com/ericsonweah)|[Blog](https://www.ericonsweah.dev)|[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210)|[Facebook](https://www.facebook.com/Eric.S.Weah)|[Twitter](https://twitter.com/EricsonWeah1)|[Instagram](https://www.instagram.com/ericsonweah/)|[Pinterest](https://www.pinterest.com/ericson0669/)
 
 # Content
