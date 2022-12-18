@@ -39,8 +39,8 @@ Website|NPM|Github|Gitlab|Blog|LinkedIn|Facebook|Twitter|Instagram|Pinterest|
 ### More Repositories
 Name|Github|NPM|Website
 --- | --- | --- | --- |
-Mongodb Model|[Github](https://github.com/mongodb-model)|[NPM](https://www.npmjs.com/org/mongodb-model)|[mongodb-model](https://www.mongodb-moodel)|
-Ongojs|[Github](https://github.com/ongojs)|[NPM](https://www.npmjs.com/org/ongojs)|[ongojs](https://www.ongojs.com)|
+Mongodb Model|[Github](https://github.com/mongodb-model)|[NPM](https://www.npmjs.com/org/mongodb-model)|[mongodb-model](https://www.mongodb-model.com)|
+Ongojs|[Github](https://github.com/ongojs)|[NPM](https://www.npmjs.com/org/ongojs)|[ongojs](http://ongojs.com)|
 
 ### Some Personal Projects
 Dev Profiles | Current Projects |Temporaly Paused Projects| Past Projects|
