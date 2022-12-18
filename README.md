@@ -28,6 +28,11 @@
 I am a self-taught full-stack software engineer specializing primary in Javascript and PHP with an emphasis on NodeJs, Laravel, WordPress, MySQL, and MongoDB. I specialize in the web, specifically in engineering fast and scalable network applications, e-commerce systems, blogs, social media systems, normal websites, APIs, eventory management systems, CMS, and Unix Systems (Linux). <br />
 I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese only). <br />
 
+# Author's Info
+Website|NPM|Github|Gitlab|Blog|LinkedIn|Facebook|Twitter|Instagram|
+--- | --- | --- | --- | --- | --- | --- |--- |--- |
+[Website](https://www.ericsonsweah.com/dashboard)|[NPM](https://www.npmjs.com/org/mongodb-model)|[Github](https://github.com/ericsonweah)|[Gitlab](https://gitlab.com/ericsonweah)|[Blog](https://www.ericonsweah.dev)|[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210)|[Facebook](https://www.facebook.com/Eric.S.Weah)|[Twitter](https://twitter.com/EricsonWeah1)|[Instagram](https://www.instagram.com/ericsonweah/)|
+
 # Content
 <!-- Makes a bullet point list -->
 
