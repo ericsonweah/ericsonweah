@@ -42,7 +42,7 @@ Name|Github|NPM|Website
 Mongodb Model|[Github](https://github.com/mongodb-model)|[NPM](https://www.npmjs.com/org/mongodb-model)|[mongodb-model](https://www.mongodb-moodel)|
 Ongojs|[Github](https://github.com/ongojs)|[NPM](https://www.npmjs.com/org/ongojs)|[ongojs](https://www.ongojs.com)|
 
-### Some Projects
+### Some Personal Projects
 Dev Profiles | Current Projects |Temporaly Paused Projects| Past Projects|
 --- | --- |----| ----|
 [npm](https://www.npmjs.com/~eweah)  |  [City Creeks](https://www.citycreeks.com)  | [Afros In Tech](http://www.afrosintech.com/) | [Ericson Weah](https://www.ericsonsweah.com/dashboard)|
