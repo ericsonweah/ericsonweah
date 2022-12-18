@@ -29,9 +29,9 @@ I am a self-taught full-stack software engineer specializing primary in Javascri
 I know French, Spanish, Krahn, and Some Portuguese (conversational Portuguese only). <br />
 
 # My Info
-Website|NPM|Github|Gitlab|Blog|LinkedIn|Facebook|Twitter|Instagram|
---- | --- | --- | --- | --- | --- | --- |--- |--- |
-[Website](https://www.ericsonsweah.com/dashboard)|[NPM](https://www.npmjs.com/org/mongodb-model)|[Github](https://github.com/ericsonweah)|[Gitlab](https://gitlab.com/ericsonweah)|[Blog](https://www.ericonsweah.dev)|[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210)|[Facebook](https://www.facebook.com/Eric.S.Weah)|[Twitter](https://twitter.com/EricsonWeah1)|[Instagram](https://www.instagram.com/ericsonweah/)|
+Website|NPM|Github|Gitlab|Blog|LinkedIn|Facebook|Twitter|Instagram|Pinterest|
+--- | --- | --- | --- | --- | --- | --- |--- |--- |--- |
+[Website](https://www.ericsonsweah.com/dashboard)|[NPM](https://www.npmjs.com/org/mongodb-model)|[Github](https://github.com/ericsonweah)|[Gitlab](https://gitlab.com/ericsonweah)|[Blog](https://www.ericonsweah.dev)|[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210)|[Facebook](https://www.facebook.com/Eric.S.Weah)|[Twitter](https://twitter.com/EricsonWeah1)|[Instagram](https://www.instagram.com/ericsonweah/)|[Pinterest](https://www.pinterest.com/ericson0669/)
 
 # Content
 <!-- Makes a bullet point list -->
