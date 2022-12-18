@@ -36,7 +36,7 @@ Website|NPM|Github|Gitlab|Blog|LinkedIn|Facebook|Twitter|Instagram|
 # Content
 <!-- Makes a bullet point list -->
 
-## My Info
+### My Info
 Website|NPM|Github|Gitlab|Blog|LinkedIn|Facebook|Twitter|Instagram|
 --- | --- | --- | --- | --- | --- | --- |--- |--- |
 [Website](https://www.ericsonsweah.com/dashboard)|[NPM](https://www.npmjs.com/org/mongodb-model)|[Github](https://github.com/ericsonweah)|[Gitlab](https://gitlab.com/ericsonweah)|[Blog](https://www.ericonsweah.dev)|[LinkedIn](https://www.linkedin.com/in/ericson-weah-b03600210)|[Facebook](https://www.facebook.com/Eric.S.Weah)|[Twitter](https://twitter.com/EricsonWeah1)|[Instagram](https://www.instagram.com/ericsonweah/)|
