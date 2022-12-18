@@ -48,7 +48,7 @@ Dev Profiles | Current Projects |Temporaly Paused Projects| Past Projects|
 [npm](https://www.npmjs.com/~eweah)  |  [City Creeks](https://www.citycreeks.com)  | [Afros In Tech](http://www.afrosintech.com/) | [Ericson Weah](https://www.ericsonsweah.com/dashboard)|
 [Github: Afros In Tech](https://github.com/afrosintech)| [MongoDB Model: A MongoDB Framework ](https://www.mongodb-model.com) |[Pros Afros In Tech](https://pros.afrosintech.com) | [Wonderful Pizza CLI](https://wonderful-pizza.com/menu)|
 [GitLab: Afros In Tech](https://gitlab.com/afrosintech)| [Ongojs: A NodeJs MVC Framework](http://ongojs.com/)|[Afro In Tech Blog](http://afrosintech.org)|[Wonderful Pizza](https://wonderful-pizza.com/menu)|
-[npm: Afros In Tech](https://www.npmjs.com/~afrosintech)| [Raw NodeJs Blog](https://rawnodejs.com/) | -------------------------- |------------------------------|
+[npm: Afros In Tech](https://www.npmjs.com/~afrosintech)| [Raw NodeJs Blog](https://rawnodejs.com/) | -------------------------- |---------------------------|
 
 
 
